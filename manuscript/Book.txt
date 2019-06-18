@@ -1,3 +1,11 @@
-chapter1.txt
-chapter2.txt
-chapter3.txt
+01-Introduction.md
+02-Competing-risks.md
+03-Beyond-Markov-models.md
+04-Evaluations-alongside-trials.md
+05-Calibration.md
+06-Bayesian-cost-effectiveness-analysis.md
+07-Exploring-uncertainty.md
+08-Heterogeneity.md
+09-Visualisation.md
+10-Beyond-the-boundary.md
+11-Quality-assurance.md
